@@ -1,17 +1,14 @@
 """
         Author : Fatih Kahraman
         Mail   : fatih.khrmn@hotmail.com
-        Web    : www.fkahraman.com
 """
-import pickle
-import numpy as np
+
 from setup_Encoding import Admin
-import json
 import time
 
 ############## CONFIG ##############
 
-MODEL_TYPE = None # None or Keras
+MODEL_TYPE = None # None or keras
 
 ############## CONFIG ##############
 
