@@ -1,5 +1,6 @@
+![ic_launcher](https://user-images.githubusercontent.com/22931832/88209610-9f01b180-cc5b-11ea-8240-8d1fa31ea6df.png)
+> It is a word learning system. It is basically designed to learn the reading errors of an OCR engine.
 # WordLS [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-### It is a word learning system. It is basically designed to learn the reading errors of an OCR engine.
 
 Wordls is an abbreviation of the word learning system. So what does it do ?
 
