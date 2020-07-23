@@ -96,7 +96,7 @@ In this section, we will look at the duration and success status of functions su
  - For Linux users, the utf-8 plugin may be useful.
  - If you want to produce a group of 100-200 words at the same time during data production, your ram may be insufficient. The minimum ram I recommend is 16 GB
 
-# License [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+# License [![GPLv3 license](https://img.shields.io/github/license/fkahraman/WordLS)](http://perso.crans.org/besson/LICENSE.html)
 ----
  - GNU General Public License v3.0
 ----
