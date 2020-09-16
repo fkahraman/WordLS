@@ -1,4 +1,5 @@
 ![WordLS](https://user-images.githubusercontent.com/22931832/88269568-f4ca6e00-ccdc-11ea-9399-650fa66a704f.png)
+> NLP TOOL
 > It is a word learning system. It is basically designed to learn the reading errors of an OCR engine.
 # WordLS [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
