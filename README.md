@@ -104,5 +104,6 @@ In this section, we will look at the duration and success status of functions su
 ----
 
 **Artificial intelligence at your fingertips!**
+----
 **Fatih Kahraman**
 
